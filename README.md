@@ -1,4 +1,4 @@
-# Project 3 - *Instagram*
+# Project - *Method Payment*
 
 **Payment_Paypal** is a photo sharing app similar to Instagram but using Parse as its backend.
 
